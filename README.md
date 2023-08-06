@@ -20,7 +20,10 @@ Welcome to send a pull request to add papers and relevant content.
 
 ## Ambiguity
 
-- **Automated Handling of Anaphoric Ambiguity in Requirements: A Multi solutionStudy** (2022), ICSE 2022, Ezzini, Saad, et al. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3510003.3510157)
+- **Automated Handling of Anaphoric Ambiguity in Requirements: A Multi solutionStudy** (2022), ICSE 2022, Ezzini, Saad, et al. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3510003.3510157)  [[code]](https://tinyurl.com/mww2w46t) 
+- **Using Domain-Specific Corpora for Improved Handling of Ambiguity in Requirements**(2021), ICSE 2021, Ezzini, Saad, et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9402055) 
+- **Detecting requirements defects with NLP patterns: An industrial experience in the railway domain.**(2018), ESE 2018, Alessio Ferrari, et al. [[pdf]](https://link.springer.com/article/10.1007/s10664-018-9596-7)
+- **RUBRIC: A Flexible Tool for Automated Checking of Conformance to Requirement Boilerplates.** (2013), ESEC/FSE 2013, Chetan, Arora, et al. [[pdf]](https://dl.acm.org/doi/abs/10.1145/2491411.2494591) 
 
 
 
@@ -38,13 +41,17 @@ Welcome to send a pull request to add papers and relevant content.
 
 
 
-
-
 # Tools
 
 # Talks
 
 # Research Groups
+
+- [Saad Ezzini](https://scholar.google.com/citations?user=48ebm6wAAAAJ&hl=zh-CN&oi=ao)
+- [Alessio Ferrari](https://scholar.google.com/citations?user=-BlCPzcAAAAJ&hl=zh-CN&oi=ao) 
+- [Chetan Arora](https://scholar.google.com/citations?user=YQVqgWwAAAAJ&hl=zh-CN&oi=ao)
+- [zhi jin](https://scholar.google.com/citations?user=ZC7SObAAAAAJ&hl=zh-CN&oi=ao)
+- ​
 
 
 
