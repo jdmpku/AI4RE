@@ -13,6 +13,7 @@ Welcome to send a pull request to add papers and relevant content.
   - ​
 - [Models](#models)
 - [Datasets](#datasets)
+- [Case Study](#case-study)
 - [Tools](#tools)
 - [Talks](#talks)
 - [Research Groups](#research-groups)
@@ -50,11 +51,14 @@ Welcome to send a pull request to add papers and relevant content.
 - [PROMISE NFR](https://zenodo.org/record/268542) - a dataset for requirement classfication(FRs vs NFRs)
 
 - [SecReq dataset](https://zenodo.org/record/4530183) - a dataset for requirement classfication(security-related vs non-security)
-
-
-
-
-
+  
+# Case Study
+- [ATM system] - The paper "An approach towards automation of requirements analysis"
+- [cafeteria ordering system] - The paper "NL-based automated software requirements elicitation and specification"
+- [library system] - The paper "From natural language software specifications to UML class models"
+- [assembly system] - The paper "On specifying requirements using a semantically controlled representation"
+- [time monitor system] - The paper "A Step Towards Ambiguity Less Natural Language Software Requirements Specifications"
+  
 # Tools
 
 # Talks
